@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hospital20">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Hospital20">
+        <activity
+            android:name=".InformationADoctor"
+            android:exported="true" />
+        <activity
+            android:name=".AllDoctorInHospital"
+            android:exported="true" />
+        <activity
+            android:name=".AnserDoctorActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RecordPatientActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ActivityDoctor"
+            android:exported="true" />
+        <activity
+            android:name=".FulInformationUser"
+            android:exported="true" />
+        <activity
+            android:name=".HistoryActivity"
+            android:exported="true" />
+        <activity
+            android:name=".UserMainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AddDoctorActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SignUpActivity"
+            android:exported="true"
+            android:label="@string/title_activity_sign_up"
+            android:theme="@style/Theme.Hospital20.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "492183037926",
+    "firebase_url": "https://hospitalstart-default-rtdb.firebaseio.com",
+    "project_id": "hospitalstart",
+    "storage_bucket": "hospitalstart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492183037926:android:48e2e22007be51c5fd9827",
+        "android_client_info": {
+          "package_name": "com.example.coursework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492183037926-fufkro0bkknhmhsa0hg62fhslcgl5b0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ2FQ0kuP-28zOhimmVWhc-frEX1mpU9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492183037926-fufkro0bkknhmhsa0hg62fhslcgl5b0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492183037926:android:99ec04563d228efdfd9827",
+        "android_client_info": {
+          "package_name": "com.example.hospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492183037926-fufkro0bkknhmhsa0hg62fhslcgl5b0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ2FQ0kuP-28zOhimmVWhc-frEX1mpU9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492183037926-fufkro0bkknhmhsa0hg62fhslcgl5b0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492183037926:android:4287d869e6a7096bfd9827",
+        "android_client_info": {
+          "package_name": "com.example.hospital20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492183037926-fufkro0bkknhmhsa0hg62fhslcgl5b0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ2FQ0kuP-28zOhimmVWhc-frEX1mpU9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492183037926-fufkro0bkknhmhsa0hg62fhslcgl5b0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hospital2.0</string>
+    <string name="Registration">Регистрация</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="action_settings">Выход</string>
+    <string name="action_cat_male">Кот</string>
+    <string name="action_cat_female">Кошка</string>
+    <string name="action_kitten">Котёнок</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="DoctorsInHospial">Доступные вравчи в больнице</string>
+    <string name="InformationADoctor">Информация о враче</string>
+    <string name="FirstNameADoctor">Имя</string>
+    <string name="LastNameADoctor">Фамилия</string>
+    <string name="emailADoctor">Email</string>
+    <string name="del">Удалить</string>
+    <string name="add_doctor">Добавить врача</string>
+    <string name="PatientJ">Жалобы пациента</string>
+</resources>
